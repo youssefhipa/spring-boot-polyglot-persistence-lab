@@ -14,7 +14,7 @@ import com.example.lab05.model.mongo.PurchaseReceipt;
 import com.example.lab05.service.PurchaseService;
 
 @RestController
-@RequestMapping("/68-21941/purchases")
+@RequestMapping("/16001371/purchases")
 public class PurchaseController {
 
     private final PurchaseService purchaseService;

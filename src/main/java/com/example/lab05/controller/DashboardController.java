@@ -9,7 +9,7 @@ import com.example.lab05.dto.DashboardResponse;
 import com.example.lab05.service.DashboardService;
 
 @RestController
-@RequestMapping("/68-21941/dashboard")
+@RequestMapping("/16001371/dashboard")
 public class DashboardController {
 
     private final DashboardService dashboardService;
